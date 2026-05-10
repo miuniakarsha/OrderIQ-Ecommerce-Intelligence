@@ -41,6 +41,25 @@ powerbi/      Power BI dashboard file
 sql/          SQL analytics queries
 assets/       Dashboard screenshots and images
 docs/         Project documentation
+```
+
+## Dashboard Preview
+
+![Power BI Dashboard](assets/dashboard_screenshot.png)
+
+## How to Run the Streamlit App
+
+Install required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the app:
+
+```bash
+streamlit run app/app.py
+```
 
 ## Note
 
