@@ -52,3 +52,41 @@ The goal of this project is to analyze e-commerce order data and generate busine
 
 \- Business recommendations
 
+
+
+\## Main Analysis Areas
+
+
+
+\- Customer behavior analysis
+
+\- Delivery performance analysis
+
+\- Product-level insights
+
+\- Payment method analysis
+
+\- Order lifecycle analysis
+
+\- Time-based trends
+
+\- Business recommendations
+
+
+
+\## Outputs
+
+
+
+\- Cleaned dataset
+
+\- Jupyter Notebook analysis
+
+\- Power BI dashboard
+
+\- Streamlit dashboard
+
+\- SQL analytics queries
+
+\- Business recommendation insights
+
