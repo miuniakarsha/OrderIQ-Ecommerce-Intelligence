@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Anaconda / environments
+.conda/
+env/
+venv/
+.venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
